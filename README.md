@@ -49,7 +49,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mixelburg&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=7B2FBE&text_color=c9d1d9&ring_color=8A2BE2" width="100%" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mixelburg&theme=github_dark" width="100%" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mixelburg&theme=github_dark&utcOffset=3" width="100%" alt="Productive Time" />
 </div>
 
 </td>
