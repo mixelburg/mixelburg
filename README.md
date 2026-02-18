@@ -18,49 +18,47 @@
 
 ---
 
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 🛠️ Tech Stack
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Biome](https://img.shields.io/badge/Biome-60A5FA?style=flat-square&logo=biome&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Jotai](https://img.shields.io/badge/Jotai-000000?style=flat-square&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Biome](https://img.shields.io/badge/Biome-60A5FA?style=for-the-badge&logo=biome&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jotai](https://img.shields.io/badge/Jotai-000000?style=for-the-badge&logoColor=white)
 
 </div>
 
-</td>
-<td width="50%" valign="top">
+---
 
-### 📊 GitHub Stats
+### 📊 Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mixelburg&theme=github_dark" width="100%" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mixelburg&theme=github_dark&utcOffset=3" width="100%" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mixelburg&theme=github_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mixelburg&theme=github_dark&utcOffset=3" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mixelburg&theme=github_dark" width="32%" />
 </div>
 
-</td>
-</tr>
-</table>
+<br/>
 
 <div align="center">
 
 <!-- Streak stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mixelburg&theme=github-dark-blue&hide_border=true&background=0d1117&ring=8A2BE2&fire=9B59B6&currStreakLabel=8A2BE2&sideLabels=9B59B6&dates=6A3D7D" width="70%" alt="GitHub Streak" />
+
+</div>
+
+<br/>
+
+<div align="center">
 
 <!-- Activity graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mixelburg&theme=github-compact&hide_border=true&bg_color=0d1117&color=9B59B6&line=8A2BE2&point=c9d1d9&area=true&area_color=2E1A47" width="95%" alt="Activity Graph" />
